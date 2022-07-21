@@ -83,6 +83,7 @@ function App() {
         size='md'
         alignSelf='flex-end'
         onClick={toggleColorMode}
+         aria-label='toogle-dark-mode'
       />
 
       <Heading
