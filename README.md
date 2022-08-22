@@ -1,7 +1,7 @@
 # React Todo List
 A simple to-do list app powered by React, Chakra UI, React icons
 
-##### [Live Demo]https://todo-app.erfjs.com/) on Vercel
+##### [Live Demo](https://todo-app.erfjs.com/) on Vercel
 
 
 
